@@ -1,0 +1,11 @@
+#ifndef PEDIATRIC_DEP
+#define PEDIATRIC_DEP
+
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <time.h>
+
+
+
+#endif
